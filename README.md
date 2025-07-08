@@ -11,7 +11,7 @@ A modern and responsive **To-Do List Web Application** built with HTML, CSS, and
 
 ## 🌐 Live Preview
 
-🔗 [View Live on Netlify](https://your-netlify-link.netlify.app/)
+🔗 [View Live on Netlify](https://todolist2975.netlify.app/)
 
 ---
 
